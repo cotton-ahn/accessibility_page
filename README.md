@@ -35,7 +35,7 @@ We introduce two ways to get to conference venue, EXCO in Daegu, starting from I
 
 #### About accessibility in Incheon International Airport and Daegu Airport
 * For information about accessibility facilities in Incheon International Airport, please refer to [here](https://www.airport.kr/ap_lp/en/svc/cusserv/servtra/servtra.do).
-* For information about accessibility facilities in Daegu Airport, please refer to [here](https://www.airport.co.kr/daegueng/cms/frCon/index.do?MENU_ID=220)
+* For information about accessibility facilities in Daegu Airport, please refer to [here].(https://www.airport.co.kr/daegueng/cms/frCon/index.do?MENU_ID=220)
 
 #### About accessibility in AREX (Airport Railroad EXpress)
 * AREX, including all stations and trains, is fully accessible with wheelchairs. At both ends of each train car, there is a dedicated wheelchair spaces. 

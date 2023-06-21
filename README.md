@@ -28,13 +28,26 @@ Our conference is held in EXCO, Daegu, Korea. Conference events will be held on 
 Please ask to registration desk if you would like to store the wheelchair. There will be a designated space at the registration desk to store approximately five folded wheelchairs.
 
 ### Transportation to Conference Venue
-We introduce several ways to get to conference venue, EXCO in Daegu. 
-1. Incheon Airport -> (Domestic Transfer) -> Daegu Airport -> (Taxi) -> EXCO
-  - DD
+We introduce two ways to get to conference venue, EXCO in Daegu, starting from Incheon Airport.
+  1. Incheon Airport -> (Domestic Transfer) -> Daegu Airport -> (Taxi) -> EXCO
+    
+  2. Incheon Airport -> (AREX) -> Seoul Station -> (KTX) -> Dong Daegu Station -> (Taxi) -> EXCO
 
-  
-2. Incheon Airport -> (AREX) -> Seoul Station -> (KTX) -> Dong Daegu Station -> (Taxi) -> EXCO
-  - DD
+#### About accessibility in Incheon International Airport and Daegu Airport
+* For information about accessibility facilities in Incheon International Airport, please refer to [here](https://www.airport.kr/ap_lp/en/svc/cusserv/servtra/servtra.do).
+* For information about accessibility facilities in Daegu Airport, please refer to [here](https://www.airport.co.kr/daegueng/cms/frCon/index.do?MENU_ID=220)
+
+#### About accessibility in AREX (Airport Railroad EXpress)
+* AREX, including all stations and trains, is fully accessible with wheelchairs. At both ends of each train car, there is a dedicated wheelchair spaces. 
+
+#### About accessibility in KTX (Korea Train eXpress)
+* In KTX, there are three seats for manual wheelchairs, and two seats for motored wheelchairs in Car 2 (First class). To book these seats in KTX, please use Korail Application. More information can be found in [here](https://korevibeblog.wordpress.com/tag/how-to-buy-ktx-tickets/) 
+* After you book a ticket, one need to reserve the wheelchair service, around 15-30 min before departure. It is recommended to arrive at the station before around 45 minutes of your departure, and ask staffs to provide the necessary services. More information can be found in [video](https://www.youtube.com/watch?v=Vp1ztSeRL9w), and you can also contact +82-1599-7777 (08:00 - 22:00, GMT+9).
+
+#### About accessibility when riding a taxi in Daegu.
+* There is a taxi service for wheelchair users in Daegu (Nadri Call Daegu). 
+
+
 
 ### Recommended Webpages for Accessibility in Korea
 * dd

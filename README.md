@@ -1,6 +1,6 @@
 # Accessibility
 
-At RSS 2023, we will do our best to create an accessible environment for all attendees. In this page, you will find information about mobility accessibility and hearing accessibility at the conference venue. Please contact our [accessibility committee](mailto:hyemin.ahn@unist.ac.kr) if the accessibility features as described here are not enough to allow you to attend. 
+At RSS 2023, we will do our best to create an accessible environment for all attendees. In this page, you will find information about hearing accessibility and mobility accessibility at the conference venue. Please contact our [accessibility committee](mailto:hyemin.ahn@unist.ac.kr) if the accessibility features as described here are not enough to allow you to attend. 
 
 ## Hearing Accessibility
 ### Live Captioning

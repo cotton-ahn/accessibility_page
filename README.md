@@ -41,7 +41,7 @@ We introduce two ways to get to conference venue, EXCO in Daegu, starting from I
 * AREX, including all stations and trains, is fully accessible with wheelchairs. At both ends of each train car, there is a dedicated wheelchair spaces. 
 
 #### About accessibility in KTX (Korea Train eXpress)
-* In KTX, there are three seats for manual wheelchairs, and two seats for motored wheelchairs in Car 2 (First class). To book these seats in KTX, please use Korail Application. More information can be found in [here](https://korevibeblog.wordpress.com/tag/how-to-buy-ktx-tickets/) 
+* In KTX, there are three seats for manual wheelchairs, and two seats for motored wheelchairs in Car 2 (First class). To book these seats in KTX, please use Korail Application. More information can be found in [here](https://korevibeblog.wordpress.com/tag/how-to-buy-ktx-tickets/). 
 * After you book a ticket, one need to reserve the wheelchair service, around 15-30 min before departure. It is recommended to arrive at the station before around 45 minutes of your departure, and ask staffs or information desk in the station to provide the necessary services. More information can be found in [video](https://www.youtube.com/watch?v=Vp1ztSeRL9w), and you can also contact +82-1599-7777 (08:00 - 22:00, GMT+9).
 
 #### About accessibility when riding a taxi in Daegu.

@@ -23,7 +23,7 @@ To ensure our content is accessible to everyone, we will provide on-screen live 
 * RSS Spotlight Talks
 
 ## Mobile Accessibility
-Our conference is held in EXCO, Daegu, Korea. Conference events will be held on the 3rd floor in EXCO. The map of the 3rd floor can be found in [here](https://exco.co.kr/eng/facility/huge_img_3f.html). The main sessions will be held in the conference room #325. And poster session, exhibition, and coffee break will be held in Grand Ballroom A. Our registration desk will be near the conference room #325.
+Our conference is held in EXCO, Daegu, Korea. Conference events will be held on the 3rd floor in EXCO. The map of the 3rd floor can be found in [here](https://exco.co.kr/eng/facility/huge_img_3f.html). The main sessions will be held in the conference room #325. Our registration desk will be near the conference room #325.
 
 ### Storage space for wheelchairs
 Please ask to registration desk if you would like to store the wheelchair. There will be a designated space at the registration desk to store approximately five folded wheelchairs.

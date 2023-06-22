@@ -16,7 +16,7 @@ To ensure our content is accessible to everyone, we will provide on-screen live 
 **Wednesday, July 12 and Thursday, July 13**
 * All RSS Spotlight Talks
 * Early Career Spotlight Talk
-* Keynote Talk
+* Keynote Talk (Thursday)
 * Industry Panel (Wednesday)
   
 **Friday, July 14**

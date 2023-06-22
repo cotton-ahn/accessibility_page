@@ -4,7 +4,7 @@ At RSS 2023, we will do our best to create an accessible environment for all att
 
 ## Hearing Accessibility
 ### Live Captioning
-To ensure our content is accessible to everyone, we will provide on-screen live captioning on the Zoom webinar (Links will be shared shortly). Contents that will provide live captioning are as below.
+To ensure our content is accessible to everyone, we will provide on-screen live captioning on the Zoom webinar (links will be shared soon). Contents that will provide live captioning are as below.
 
 **Tuesday, July 11**
 * Welcome Remarks
